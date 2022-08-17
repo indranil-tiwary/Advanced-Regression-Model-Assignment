@@ -8,22 +8,13 @@
 * [Acknowledgements](#acknowledgements)
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+This project was done as a part of the ML course. We are provided with the housing data to find the best prices of houses for flipping for a higher price.
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Lasso model is used.
+- Alpha value for Lasso - 0.001
+- Top 5 features:
+PoolArea, HalfBath, KitchenQual, FullBath, GrLivArea
 
 ## Acknowledgements
 This project was submitted as a part of ML2 Course assignment of upGrad and IIIT-Bangalore.
